@@ -1,0 +1,17 @@
+<!-- /* ExoBUD MP(II) 播放清单样式表 */ 
+a,a:link { color: #2891E0; text-decoration: none; }
+a:visited { color: #2891E0; text-decoration: none; }
+a:active { color: #2891E0; text-decoration: none; }
+a:hover { color: #2A87CE; text-decoration: none; }
+body { margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;
+background-image: url(./img/bg.jpg);
+/* background-image为播放清单页面背景图片地址*/
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: left top;
+cursor: crosshair; }
+body { font-family: 'Tahoma','Verdana','Arial'; font-size: 9pt; color: silver; }
+td { font-family: 'Tahoma','Verdana','Arial'; font-size: 9pt; color: #39A2F2; }
+//-->
+ 
+ 

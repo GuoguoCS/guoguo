@@ -1,0 +1,13 @@
+<!-- /* ExoBUD MP(II) 播放面板样式表 */ 
+a,a:link { color: silver; text-decoration: none; }
+a:visited { color: silver; text-decoration: none; }
+a:active { color: white; text-decoration: none; }
+a:hover { color: white; text-decoration: none; }
+body { margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;
+cursor: crosshair; overflow: hidden; }
+body,td { font-family: 'Tahoma','Verdana','Arial'; font-size: 8pt; }
+/* 显示媒体标题的样式表设定 */
+.title { font-family: 'Tahoma','Verdana','Arial'; font-size: 8pt; color: black; }
+/* 显示时间长度的样式表设定 */
+.time { font-family: 'Tahoma','Verdana','Arial'; font-size: 7pt; color: blue; }
+//-->

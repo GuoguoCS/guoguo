@@ -1,0 +1,46 @@
+body,td,th,select,input{ font-family: "Verdana", "宋体"; font-size: 12px;color: #000000; line-height: 180%} 
+.text {  font-size: 12px; line-height: 20px}	
+A:link {color: #000000;text-decoration: none}
+A:visited {color: #000000;text-decoration: none}
+A:hover {color: #1178BA;;border-bottom:1px dashed #1178BA;}
+.form {
+	font-size: 9pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	height: 18px;
+	clip:  rect(   );
+	color: #000000;
+	border-top-width:0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	background-color: #FFFFFF;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+ p {  font-family: "宋体", "Tahoma", "Verdana"; font-size: 12px; line-height: 140%; color: #000000}
+.an {
+	border: #000000;
+#000000: #ffffff; border: 1px #000000 solid; font-family: "宋体", "Tahoma", "Verdana"; font-size: 12px; line-height: 120%; text-decoration: none; background-color: #ffffff}
+.font {  filter: DropShadow(Color=#FFEBDD, OffX=1, OffY=1, Positive=2); font-family: "宋体", "Verdana", "Arial", ; font-size: 12px; text-decoration: none; color: #000000}
+.EFONT {  font-family: "Verdana", "Arial", "宋体", "sans-serif"; font-size: 10px; text-decoration: none; clip:   rect(   ); height: 14; line-height: 140%}
+.button {
+	font-family: "宋体", "Tahoma", "Verdana";
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	height: auto;
+	width: auto;
+	font-weight: lighter;
+	border: 1px dotted #000000;
+	background-color: #FFFFFF;
+
+.titel {  color: #061C1C; filter: DropShadow(Color=#F9FBF9, OffX=1, OffY=1, Positive=2)}
+.font1 {  color: #43380E; filter: DropShadow(Color=#F5FFEC, OffX=1, OffY=1, Positive=2); line-height: 120%}
+.font3 {  color: #000000; filter: DropShadow(Color=#FFFFE1, OffX=1, OffY=1, Positive=2); font-family: "宋体", "Tahoma", "Verdana"; font-size: 12px; text-decoration: none}
+.font { color: #1B2834; filter: DropShadow(Color=#ffffff, OffX=1, OffY=1, Positive=2)}
+.font2 {  color: #000000; filter: DropShadow(Color=#F5FFEC, OffX=1, OffY=1, Positive=2)}
